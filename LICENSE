@@ -1,0 +1,13 @@
+Copyright (c) 2026 Ingalls Weather. All rights reserved.
+
+The images and other files in this repository are published solely for
+display on Ingalls Weather's website and social media channels. No license,
+express or implied, is granted to any other party to copy, reproduce,
+distribute, publish, or create derivative works from this content, in
+whole or in part, without prior written permission from Ingalls Weather.
+
+Underlying weather data used to generate these images is sourced from
+NOAA/NWS, WindBorne Systems, and Open-Meteo (which redistributes ECMWF
+data); this copyright notice covers only the rendered graphics as
+published here and does not affect the terms under which that underlying
+data is made available by its respective providers.
